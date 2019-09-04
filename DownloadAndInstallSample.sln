@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadAndInstallSample", "DownloadAndInstallSample\DownloadAndInstallSample.csproj", "{8AB7D8AE-0EA8-464E-9797-88F5BCE3DFD3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Framework", "Framework", "{47E501F8-C173-4A9A-BFF4-C17F78A50719}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreFramework", "CoreFramework\CoreFramework.csproj", "{877BCD06-FEC5-4256-9A4E-66D6740317B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrameworkInterfaces", "FrameworkInterfaces\FrameworkInterfaces.csproj", "{CA545CBF-6F20-4636-A5FC-41E81D7247B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroidFramework", "DroidFramework\DroidFramework.csproj", "{416CD608-A60B-4F81-9D78-AC06F50FEC6D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7418E86F-EE5E-4153-BCE0-4BB6CE5F6251}"
+	ProjectSection(SolutionItems) = preProject
+		License.md = License.md
+		README.md = README.md
+		THIRD-PARTY-NOTICES.md = THIRD-PARTY-NOTICES.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB7D8AE-0EA8-464E-9797-88F5BCE3DFD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB7D8AE-0EA8-464E-9797-88F5BCE3DFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB7D8AE-0EA8-464E-9797-88F5BCE3DFD3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8AB7D8AE-0EA8-464E-9797-88F5BCE3DFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB7D8AE-0EA8-464E-9797-88F5BCE3DFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB7D8AE-0EA8-464E-9797-88F5BCE3DFD3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{877BCD06-FEC5-4256-9A4E-66D6740317B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877BCD06-FEC5-4256-9A4E-66D6740317B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877BCD06-FEC5-4256-9A4E-66D6740317B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877BCD06-FEC5-4256-9A4E-66D6740317B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA545CBF-6F20-4636-A5FC-41E81D7247B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA545CBF-6F20-4636-A5FC-41E81D7247B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA545CBF-6F20-4636-A5FC-41E81D7247B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA545CBF-6F20-4636-A5FC-41E81D7247B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{416CD608-A60B-4F81-9D78-AC06F50FEC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{416CD608-A60B-4F81-9D78-AC06F50FEC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{416CD608-A60B-4F81-9D78-AC06F50FEC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{416CD608-A60B-4F81-9D78-AC06F50FEC6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{877BCD06-FEC5-4256-9A4E-66D6740317B8} = {47E501F8-C173-4A9A-BFF4-C17F78A50719}
+		{CA545CBF-6F20-4636-A5FC-41E81D7247B5} = {47E501F8-C173-4A9A-BFF4-C17F78A50719}
+		{416CD608-A60B-4F81-9D78-AC06F50FEC6D} = {47E501F8-C173-4A9A-BFF4-C17F78A50719}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9A6B5B1-31B6-42F1-B59A-1ADE9251A1BE}
+	EndGlobalSection
+EndGlobal

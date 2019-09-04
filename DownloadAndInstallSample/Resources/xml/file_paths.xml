@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--<internal-path name="internal_files" path="Download"/>
+  <internal-path name="internal_files1" path="Download/"/>
+  <internal-path name="internal_files2" path="/Download"/>
+  <internal-path name="internal_files3" path="."/>
+  <external-files-path name="downloads3" path="/Download" />
+  <files-path name="apks2" path="Download"/>
+  <files-path name="apks3" path="Download/"/>
+  <files-path name="apks4" path="/Download"/>
+  <external-path name="apks10" path="Download" />
+  <external-path name="apks11" path="Download/" />
+  <external-path name="apks12" path="/Download" />
+  <external-files-path name="downloads" path="Download/" />
+  <external-files-path name="downloads2" path="Download" />
+  <external-files-path name="external_context" path="." />
+  <external-files-path name="external_context2" path="" />
+  <external-path name="apks" path="Android/data/com.companyname.downloadandinstallsample/files/Download/" />
+  <external-path name="apks2" path="Android/data/com.companyname.downloadandinstallsample/files/Download" />
+  <external-path name="apks3" path="/Android/data/com.companyname.downloadandinstallsample/files/Download" />
+  <external-path name="external_files" path="Android/data/com.companyname.downloadandinstallsample/files/" />
+  <external-path name="external_files2" path="Android/data/com.companyname.downloadandinstallsample/files" />
+  <external-path name="external_files3" path="/Android/data/com.companyname.downloadandinstallsample/files" />
+  <external-path name="external_files4" path="Android/data/com.companyname.downloadandinstallsample/" />
+  <external-path name="external_files5" path="Android/data/com.companyname.downloadandinstallsample" />
+  <external-path name="external_files6" path="/Android/data/com.companyname.downloadandinstallsample" />-->
+  <external-path name="external_files7" path="." />
+  <!--<root-path name="root" path="." />-->
+</paths>

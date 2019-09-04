@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DownloadAndInstallSample
+/CoreFramework/bin/Debug
+/CoreFramework/obj
+/DownloadAndInstallSample/bin/Debug
+/DownloadAndInstallSample/obj
+/DroidFramework/obj
+/DroidFramework/bin/Debug
+/FrameworkInterfaces/bin/Debug
+/FrameworkInterfaces/obj
