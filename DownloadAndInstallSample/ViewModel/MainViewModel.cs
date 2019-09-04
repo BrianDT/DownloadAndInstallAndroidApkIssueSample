@@ -19,7 +19,7 @@ namespace DownloadAndInstallSample.ViewModel
         /// <summary>
         /// The url of the file to download (in this case itself)
         /// </summary>
-        private const string SampleUrl = "https://github.com/BrianDT/DownloadAndInstallAndroidApkIssueSample/DownloadFrom/sample.apk";
+        private const string SampleUrl = "https://github.com/BrianDT/DownloadAndInstallAndroidApkIssueSample/tree/master/DownloadFrom/sample.apk";
 
         /// <summary>
         /// The version number to suffix
